@@ -9,8 +9,8 @@ Seeking **software engineering or AI internship** to deliver technical expertise
 
 ---
 
-### Contact
-*Email:* [maksym.genius@gmail.com](mailto:maksym.genius@gmail.com)  
-*LinkedIn:* [linkedin.com/in/maksym-lazoryk](https://www.linkedin.com/in/maksym-lazoryk/)  
+### *Contact*
+Email: [maksym.genius@gmail.com](mailto:maksym.genius@gmail.com)  
+LinkedIn: [linkedin.com/in/maksym-lazoryk](https://www.linkedin.com/in/maksym-lazoryk/)  
 
 *Available for internship opportunities and project-based technical collaborations.*
