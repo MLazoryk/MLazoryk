@@ -1,8 +1,8 @@
 ## Hi there 👋
-### 🧠 Software Engineering & AI MSc Candidate | Woolf University  
-**Full-Stack Developer** specializing in scalable applications with **React, Node.js, Django**.  
-Experienced in **Python, JavaScript, AI/ML**, and cloud deployment using **AWS & Docker**.  
+### MSc Candidate in Software Engineering & AI | Woolf University  
+**Full-Stack Developer** specializing in scalable solutions with **React, Node.js, Django**.  
+Skilled in **Python, JavaScript, AI/ML**, and cloud deployment (**AWS, Docker**).  
 
-📜 Holds a **Computer Science certification with distinction**, with advanced projects in AI and interactive systems.  
+**Certified in Computer Science** with distinction; experienced in AI-driven projects and interactive systems.  
 
-🔍 Actively seeking a **software engineering or AI internship** to apply technical skills and contribute to innovative solutions.
+Seeking **software engineering or AI internship** to deliver technical expertise and contribute to strategic innovation.
