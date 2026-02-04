@@ -5,7 +5,6 @@ Skilled in **Python, JavaScript, AI/ML**, and cloud deployment (**AWS, Docker**)
 
 **Certified in Computer Science** with distinction; experienced in AI-driven projects and interactive systems.  
 
-Seeking **software engineering or AI internship** to deliver technical expertise and contribute to strategic innovation.
 
 ---
 
