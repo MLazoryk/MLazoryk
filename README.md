@@ -1,5 +1,5 @@
 ### *Hi there*
-### *MSc Candidate in Software Engineering & AI | Woolf University*  
+### *MSc Candidate in Software Engineering & AI | Neoversity. IT University*  
 **Full-Stack Developer** specializing in scalable solutions with **React, Node.js, Django**.  
 Skilled in **Python, JavaScript, AI/ML**, and cloud deployment (**AWS, Docker**).  
 
