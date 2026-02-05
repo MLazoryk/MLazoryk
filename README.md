@@ -1,5 +1,8 @@
-## Maksym Lazoryk
----
+# Maksym Lazoryk
+
+<table>
+<tr>
+<td width="50%">
 
 ## Technical Stack
 
@@ -10,7 +13,8 @@
 #### *Databases:* PostgreSQL, MongoDB  
 #### *Tools:* Git, REST APIs, Agile/Scrum
 
----
+</td>
+<td width="50%">
 
 ## Career Interests
 
@@ -22,8 +26,12 @@
 
 #### Open to **remote opportunities** and **innovative technical projects**.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ### *Contact*
 Email: [maksym.genius@gmail.com](mailto:maksym.genius@gmail.com)  
-LinkedIn: [linkedin.com/in/maksym-lazoryk](https://www.linkedin.com/in/maksym-lazoryk/)  
+LinkedIn: [linkedin.com/in/maksym-lazoryk](https://www.linkedin.com/in/maksym-lazoryk/)
