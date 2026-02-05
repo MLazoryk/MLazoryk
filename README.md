@@ -1,11 +1,4 @@
 ## Maksym Lazoryk
-
-### End-to-End Web Systems | Python/Django • React/Next.js & AWS Cloud
-
-
-
-
-
 ---
 
 ## 🛠️ Tech Stack
