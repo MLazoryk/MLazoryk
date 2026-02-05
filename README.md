@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 Career Interests
+# 🎯 Career Interests
 
 Seeking **full-time roles, internships, or project collaborations** as a:
 
