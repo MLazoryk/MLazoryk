@@ -31,7 +31,3 @@
 </table>
 
 ---
-
-### *Contact*
-Email: [maksym.genius@gmail.com](mailto:maksym.genius@gmail.com)  
-LinkedIn: [linkedin.com/in/maksym-lazoryk](https://www.linkedin.com/in/maksym-lazoryk/)
