@@ -1,7 +1,7 @@
-# Maksym Lazoryk
+## Maksym Lazoryk
 
-## Software Engineering & AI | Neoversity IT University
-### Full-Stack Developer · AI-Driven Solutions · Cloud Systems
+### End-to-End Web Systems | Python/Django • React/Next.js & AWS Cloud
+
 
 
 
