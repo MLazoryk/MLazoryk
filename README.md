@@ -3,7 +3,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript  
+#**Languages:** Python, JavaScript  
 **Frameworks & Libraries:** Django, React, Node.js  
 **AI/ML:** TensorFlow, scikit-learn, practical AI integration  
 **Cloud & DevOps:** AWS, Docker, CI/CD  
