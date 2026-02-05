@@ -1,6 +1,9 @@
 # Maksym Lazoryk
 
-### MSc Candidate in Software Engineering & AI @ Neoversity IT University  
+#### Software Engineering & AI | Neoversity IT University
+Full-Stack Developer · AI-Driven Solutions · Cloud Systems
+
+
 #### Full-Stack Developer | AI/ML Enthusiast
 
 ---
