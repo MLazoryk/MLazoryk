@@ -1,7 +1,7 @@
 # Maksym Lazoryk
 
-### Software Engineering & AI | Neoversity IT University
-# Full-Stack Developer · AI-Driven Solutions · Cloud Systems
+## Software Engineering & AI | Neoversity IT University
+### Full-Stack Developer · AI-Driven Solutions · Cloud Systems
 
 
 
